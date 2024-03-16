@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<shape xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <gradient
+        android:startColor="@color/weather_card_color_second"
+        android:endColor="@color/weather_card_color_first"
+        android:angle="135">
+    </gradient>
+
+    <corners android:radius="30dp"/>
+</shape>
+
+
+<!--
+
+<gradient
+        android:startColor="@color/weather_card_color_second"
+        android:endColor="@color/weather_card_color_first"
+        android:angle="135">
+    </gradient>
+
+-->
+
+
+<!--
+ <gradient
+        android:startColor="@color/black"
+        android:endColor="#AD1457"
+        android:angle="135">
+    </gradient>
+-->
